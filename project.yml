@@ -1,11 +1,11 @@
 # gspm project.yml <https://gs-project-manager-docs.readthedocs.io/en/latest/schema.html>
-name: Platformer
+name: Godot-Project
 path: .
-version: 0.0.0
+version: 1.0.0
 default_type: git
 author: Rovacado
 email: 23286860+rovacado@users.noreply.github.com
-twitter: (at)twitter
+twitter: https://www.twitter.com/rovacado
 copyright: Copyright 2021
 license: MIT
 godot:
@@ -14,7 +14,7 @@ godot:
   mono: fault
 
 project:
-  url: none
+  url: https://github.com/rovacado/gspm-basic
   
 assets:
       
