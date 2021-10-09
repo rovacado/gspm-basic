@@ -1,6 +1,6 @@
 * GSPM-BASIC
 
-This is a super simple template for the [[https://pypi.org/project/gspm/] [gspm]] CLI tool for godot.
+This is a super simple template for the [[https://pypi.org/project/gspm/][gspm]] CLI tool for godot.
 
 * How to Use
 
