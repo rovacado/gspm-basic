@@ -1,0 +1,12 @@
+* GSPM-BASIC
+
+This is a super simple template for the [[https://pypi.org/project/gspm/] [gspm]] CLI tool for godot.
+
+* How to Use
+
+first clone the repo
+: git clone https://github.com/rovacado/gspm-basic.git
+then cd into the directory and run the install command to init the project from the project.yml
+: gspm install
+finally run the edit command to launch godot straight into the project
+: gspm edit
