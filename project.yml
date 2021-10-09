@@ -11,7 +11,7 @@ license: MIT
 godot:
   version: 3.3.4
   arch: 64
-  mono: fault
+  mono: false
 
 project:
   url: https://github.com/rovacado/gspm-basic
