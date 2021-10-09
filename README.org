@@ -1,10 +1,20 @@
+#+TITLE: gspm template README
+#+DESCRIPTION: simple readme file for my gspm template repo
+#+AUTHOR: Rovacado
+
 * GSPM-BASIC
 This is a super simple template for the [[https://pypi.org/project/gspm/][gspm]] CLI tool for godot.
 
 * How to Use
 first clone the repo
-: git clone https://github.com/rovacado/gspm-basic.git
+#+begin_src shell
+git clone https://github.com/rovacado/gspm-basic.git
+#+end_src
 cd into the directory and edit project.yml as needed, then run the install command
-: gspm install
+#+begin_src shell
+gspm install
+#+end_src
 finally run the edit command to launch godot straight into the project
-: gspm edit
+#+begin_src shell
+gspm edit
+#+end_src
