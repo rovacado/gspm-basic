@@ -1,0 +1,27 @@
+# gspm project.yml <https://gs-project-manager-docs.readthedocs.io/en/latest/schema.html>
+name: Platformer
+path: .
+version: 0.0.0
+default_type: git
+author: Rovacado
+email: 23286860+rovacado@users.noreply.github.com
+twitter: (at)twitter
+copyright: Copyright 2021
+license: MIT
+godot:
+  version: 3.3.4
+  arch: 64
+  mono: fault
+
+project:
+  url: none
+  
+assets:
+      
+pre_install:
+
+post_install:
+
+pre_build:
+
+post_build:
